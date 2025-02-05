@@ -21,7 +21,7 @@ To get started with the project, follow these steps:
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/your_github_org/just-another-game-backlog.git
+git clone https://github.com/your_github_user/just-another-game-backlog.git
 cd just-another-game-backlog/frontend
 ```
 
@@ -33,7 +33,7 @@ npm install
 
 ### 3. Set Up Environment Variables
 
-Create a `.env` file in the `frontend/` directory and add the required credentials variables following the given example
+Create a `.env` file in the `frontend/` directory and add the required variables following the given example
 file `.env.example`.
 
 ### 4. Run the Development Server
