@@ -11,8 +11,8 @@ Click on the "Fork" button at the top right of this repository to create your ow
 
 ### 2. Clone Your Fork
 ```sh
-git clone https://github.com/your-username/JAGB.git
-cd JAGB
+git clone https://github.com/your-username/just-another-game-backlog.git
+cd just-another-game-backlog
 ```
 ### 3. Create a Branch
 Follow the naming convention `<type>/<branch-name>`
