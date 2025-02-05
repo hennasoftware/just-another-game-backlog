@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { firestore, getDocs, collection } from './config/firebase.js';
+import { firestore, getDocs, collection } from './services/firebase.js';
 import reactLogo from './assets/react.svg';
 import viteLogo from '/vite.svg';
 import './App.css';
